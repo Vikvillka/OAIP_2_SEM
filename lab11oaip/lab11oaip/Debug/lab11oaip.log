@@ -1,0 +1,6 @@
+﻿  var2.cpp
+D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab11oaip\lab11oaip\var2.cpp(34,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab11oaip\lab11oaip\var2.cpp(37,23): warning C4101: letter: неиспользованная локальная переменная
+D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab11oaip\lab11oaip\var2.cpp(36,23): warning C4101: n: неиспользованная локальная переменная
+D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab11oaip\lab11oaip\var2.cpp(38,8): warning C4101: ver: неиспользованная локальная переменная
+  lab11oaip.vcxproj -> D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab11oaip\Debug\lab11oaip.exe

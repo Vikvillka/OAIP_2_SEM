@@ -1,0 +1,4 @@
+﻿  var5_1.cpp
+D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab5oaip\var5_1\var5_1.cpp(36,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab5oaip\var5_1\var5_1.cpp(93,27): warning C4018: <=: несоответствие типов со знаком и без знака
+  var5_1.vcxproj -> D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab5oaip\Debug\var5_1.exe

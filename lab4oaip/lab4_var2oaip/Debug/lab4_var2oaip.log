@@ -1,0 +1,19 @@
+﻿Сборка начата 16.03.2023 12:43:12.
+Уровень детализации журнала: Normal.     1>Проект "D:\OAIP 2 sem\lab04oaip\lab4_var2oaip\lab4_var2oaip.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\lab4_var2oaip.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         lab4_var2oaip.vcxproj -> D:\OAIP 2 sem\lab04oaip\Debug\lab4_var2oaip.exe
+       FinalizeBuildStatus:
+         Файл "Debug\lab4_var2oaip.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\lab4_var2oaip.tlog\lab4_var2oaip.lastbuildstate".
+     1>Сборка проекта "D:\OAIP 2 sem\lab04oaip\lab4_var2oaip\lab4_var2oaip.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.07

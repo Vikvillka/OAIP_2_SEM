@@ -1,0 +1,10 @@
+﻿  var16_1.cpp
+D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab5oaip\var16_1\var16_1.cpp(83,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab5oaip\var16_1\var16_1.cpp(104,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab5oaip\var16_1\var16_1.cpp(133,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab5oaip\var16_1\var16_1.cpp(153,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab5oaip\var16_1\var16_1.cpp(173,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab5oaip\var16_1\var16_1.cpp(238,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab5oaip\var16_1\var16_1.cpp(258,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab5oaip\var16_1\var16_1.cpp(277,21): warning C4018: <: несоответствие типов со знаком и без знака
+  var16_1.vcxproj -> D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab5oaip\Debug\var16_1.exe

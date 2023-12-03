@@ -1,0 +1,33 @@
+﻿Сборка начата 05.05.2023 13:45:13.
+Уровень детализации журнала: Normal.     1>Проект "D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\laba12oaip\laba12oaip\laba12oaip.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\laba12oaip.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Tree.cpp var2.cpp
+         Tree.cpp
+         var2.cpp
+     1>D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\laba12oaip\laba12oaip\var2.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+         Создание кода...
+     1>D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\laba12oaip\laba12oaip\Tree.cpp(221): warning C4715: Tree::Balance: значение возвращается не при всех путях выполнения
+     1>D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\laba12oaip\laba12oaip\Tree.cpp(236): warning C4715: Tree::check_right: значение возвращается не при всех путях выполнения
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\laba12oaip\Debug\laba12oaip.exe" /INCREMENTAL /ILK:"Debug\laba12oaip.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\laba12oaip\Debug\laba12oaip.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\laba12oaip\Debug\laba12oaip.lib" /MACHINE:X86 Debug\Tree.obj
+         Debug\var2.obj
+         laba12oaip.vcxproj -> D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\laba12oaip\Debug\laba12oaip.exe
+       FinalizeBuildStatus:
+         Файл "Debug\laba12oaip.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\laba12oaip.tlog\laba12oaip.lastbuildstate".
+     1>Сборка проекта "D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\laba12oaip\laba12oaip\laba12oaip.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\laba12oaip\laba12oaip\laba12oaip.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\laba12oaip\laba12oaip\var2.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+         D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\laba12oaip\laba12oaip\Tree.cpp(221): warning C4715: Tree::Balance: значение возвращается не при всех путях выполнения
+         D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\laba12oaip\laba12oaip\Tree.cpp(236): warning C4715: Tree::check_right: значение возвращается не при всех путях выполнения
+
+    Предупреждений: 3
+    Ошибок: 0
+
+Прошло времени 00:00:01.57

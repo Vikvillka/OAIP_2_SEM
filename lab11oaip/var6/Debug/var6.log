@@ -1,0 +1,38 @@
+﻿Сборка начата 04.05.2023 15:49:23.
+Уровень детализации журнала: Normal.     1>Проект "D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab11oaip\var6\var6.vcxproj" в узле 2 (целевые объекты Build).
+     1>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (var6.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+     1>InitializeBuildStatus:
+         Создание "Debug\var4.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt var4.cpp
+         var4.cpp
+     1>D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab11oaip\var6\var4.cpp(43,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+     1>D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab11oaip\var6\var4.cpp(97,22): warning C4018: <: несоответствие типов со знаком и без знака
+     1>D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab11oaip\var6\var4.cpp(47,23): warning C4101: letter: неиспользованная локальная переменная
+     1>D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab11oaip\var6\var4.cpp(46,19): warning C4101: n: неиспользованная локальная переменная
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab11oaip\Debug\var4.exe" /INCREMENTAL /ILK:"Debug\var4.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab11oaip\Debug\var4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab11oaip\Debug\var4.lib" /MACHINE:X86 Debug\var4.obj
+         var6.vcxproj -> D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab11oaip\Debug\var4.exe
+       FinalizeBuildStatus:
+         Файл "Debug\var4.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\var4.tlog\var4.lastbuildstate".
+     1>Сборка проекта "D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab11oaip\var6\var6.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab11oaip\var6\var6.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект PrepareForBuild) -> 
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (var6.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+
+
+       "D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab11oaip\var6\var6.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab11oaip\var6\var4.cpp(43,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+         D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab11oaip\var6\var4.cpp(97,22): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab11oaip\var6\var4.cpp(47,23): warning C4101: letter: неиспользованная локальная переменная
+         D:\2_СЕМ_ЛАБЫ\OAIP 2 sem\lab11oaip\var6\var4.cpp(46,19): warning C4101: n: неиспользованная локальная переменная
+
+    Предупреждений: 5
+    Ошибок: 0
+
+Прошло времени 00:00:01.29
